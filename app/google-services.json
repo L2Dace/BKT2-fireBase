@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850934356669",
+    "project_id": "plasma-myth-357615",
+    "storage_bucket": "plasma-myth-357615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850934356669:android:64a3716c25c9e90e08b5d4",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850934356669-7bv57mbifuu93kch5o148qg22nj7ffl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA54VNJkhV-_nGxTFBP6RjKHJfsPjp_wu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850934356669-7bv57mbifuu93kch5o148qg22nj7ffl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
